@@ -1,0 +1,8 @@
+md5: cb4c7defcb4c9a18bf145ae691638ed6
+outs:
+- cache: true
+  md5: 4abbe92e1cf2b13abc1d880cb58a80ea
+  metric: false
+  path: PP2-sklearn.ipynb
+  persist: false
+wdir: .

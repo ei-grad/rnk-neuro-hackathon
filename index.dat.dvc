@@ -1,0 +1,8 @@
+md5: cd4e603e0b345157aa44ad28f4be3446
+outs:
+- cache: true
+  md5: f61957e21ed4eddbd2d51e37c4604376
+  metric: false
+  path: index.dat
+  persist: false
+wdir: .

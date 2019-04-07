@@ -1,0 +1,8 @@
+md5: 734f0918dfcbab6c46d4c73268a63160
+outs:
+- cache: true
+  md5: 4ec3c696b57fba7b1e7e83794d9ab743
+  metric: false
+  path: Neuro-kNN-sklearn.ipynb
+  persist: false
+wdir: .

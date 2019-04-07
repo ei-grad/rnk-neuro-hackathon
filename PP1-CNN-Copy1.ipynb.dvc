@@ -1,0 +1,8 @@
+md5: 2b46ec5cd4ae660af1a294d240f13274
+outs:
+- cache: true
+  md5: e0651843dd878675b075e1fea127e3c7
+  metric: false
+  path: PP1-CNN-Copy1.ipynb
+  persist: false
+wdir: .

@@ -1,0 +1,8 @@
+md5: d3dff5ddff8c35e022049f4aee5df9af
+outs:
+- cache: true
+  md5: 825f261821b713aaceb84b999f28d9a5
+  metric: false
+  path: PP2-CNN.ipynb
+  persist: false
+wdir: .
